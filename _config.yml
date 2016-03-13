@@ -1,0 +1,28 @@
+name: ENFM
+favicon: null
+layout_spectrum: 0.23939244402572513
+typography_spectrum: 0.2625030481722206
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.8858394958078861
+  lightness: 0.654553699074313
+  saturation: 0.618220194010064
+  rhythmicContrast: 0.5034776767715812
+purpose: []
